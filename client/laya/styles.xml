@@ -1,0 +1,9 @@
+<res>
+   <item name="ui/image_main_beam_up.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/image_main_beam_right.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/image_main_beam_left.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/image_main_beam_down.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/image_main.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/image_auto.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/image_set.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+</res>

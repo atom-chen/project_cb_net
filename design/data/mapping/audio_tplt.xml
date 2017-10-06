@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<key_number.id></key_number.id>
+		<number.type></number.type>
+		<number.preload></number.preload>
+		<string.file></string.file>
+	</row>
+	<row>
+		<key_number.id></key_number.id>
+		<number.type></number.type>
+		<number.preload></number.preload>
+		<string.file></string.file>
+	</row>
+</root>

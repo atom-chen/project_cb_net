@@ -1,0 +1,15 @@
+赛豆数值（30）   	number_normal_none_x		1.0
+筹码数值（30）   	number_normal_none_x		1.0
+
+压单双-倍率-单（30）	number_normal_red_x		1.2	
+压单双-倍率-双（30）	number_normal_blue_x		1.2
+
+压颜色-倍率（25）	number_normal_black_x		1.0
+
+压号段-内容（25）	number_normal_red_x		1.0
+压号段-倍率（30）	number_normal_red_x		1.2
+
+倒计时（60）		number_cd_x			1.0 
+
+实际押注金额-我/注（20）number_bet_green_x		1.0
+实际押注金额-总（20）	number_bet_blue_x		1.0
